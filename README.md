@@ -1,7 +1,4 @@
 > ## Build-a-Web-Scraper-With-Python
-<p align="center">
-  <img src="https://www.screenscraping.info/i/side2.jpg?raw=true" alt="Sublime's custom image"/>
-</p>
 
 - The incredible amount of data on the Internet is a rich resource for any field of research or personal interest.
 To effectively harvest that data, you’ll need to become skilled at web scraping. The Python libraries requests and Beautiful Soup are powerful tools for the job. 
